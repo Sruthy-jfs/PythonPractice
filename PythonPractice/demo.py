@@ -12,4 +12,4 @@ def sum(a=0):
         return error
 
 
-#print(sum(3))
+print(sum(3))
